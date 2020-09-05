@@ -33,5 +33,6 @@ class Main {
     Human: 73 Dog: 63
     */
     System.out.println("Human: " + myAge + " Dog: " + dogAge);
+
   }
 }
